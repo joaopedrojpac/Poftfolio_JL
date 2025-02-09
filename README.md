@@ -5,5 +5,7 @@ In this particular project I helped a friend of mine who wanted to analyse NFL s
 using Python and Power BI.
 
 • Data was extracted using the Selenium Chrome Driver 
+
 • The cleaning of data was done using the pandas library
+
 • The dashboards and the database schema was shown in Power BI
