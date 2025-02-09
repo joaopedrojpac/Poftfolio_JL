@@ -11,4 +11,4 @@ Therefore to achive that I used Python and Power BI.
 
 • The dashboards and the database schema was shown in Power BI.
 
-![](images/test.png)
+![](SQLDatabaseSchemas.png)
