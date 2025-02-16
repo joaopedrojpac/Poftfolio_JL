@@ -11,4 +11,5 @@ Therefore to achive that I used Python to extract and clean the data and Power B
 
 ## Database Structure
 Three fact tables were choosen to gather stats about nfl teams, offensive and defensive players 
-![](SQLDatabaseSchemas.jpg)
+
+![](Database_Initial_Schema.png)
